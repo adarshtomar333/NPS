@@ -1,0 +1,5 @@
+Network Packet Analyzer : Developed a Python Network Packet Analyzer for real-time traffic monitoring
+and analysis, capturing details like addresses, ports, and payloads across TCP, UDP, and ICMP protocols.
+Enables network diagnostics, performance monitoring, and threat detection.
+Key Skills : Python, Packet Analysis, Network Protocols (TCP, UDP, ICMP), Data Visualization, Anomaly
+Detection
